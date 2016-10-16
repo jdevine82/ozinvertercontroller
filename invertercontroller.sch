@@ -82,7 +82,7 @@ U 1 1 5803CC61
 P 1825 2250
 F 0 "fantemp1" H 1825 2170 50  0000 C CNN
 F 1 "10k" H 1825 2250 50  0000 C CNN
-F 2 "Potentiometers:Potentiometer_Trimmer-Piher-PT15-h2-5_vertical" H 1825 2250 50  0001 C CNN
+F 2 "Potentiometers:Potentiometer_WirePads_Small" H 1825 2250 50  0001 C CNN
 F 3 "" H 1825 2250 50  0000 C CNN
 	1    1825 2250
 	0    1    1    0   
@@ -148,7 +148,7 @@ U 1 1 5803D110
 P 3375 2600
 F 0 "tempdelay1" H 3375 2520 50  0000 C CNN
 F 1 "10k" H 3375 2600 50  0000 C CNN
-F 2 "Potentiometers:Potentiometer_Trimmer-Piher-PT15-h2-5_vertical" H 3375 2600 50  0001 C CNN
+F 2 "Potentiometers:Potentiometer_WirePads_Small" H 3375 2600 50  0001 C CNN
 F 3 "" H 3375 2600 50  0000 C CNN
 	1    3375 2600
 	-1   0    0    1   
@@ -412,7 +412,7 @@ U 1 1 58040112
 P 1725 4425
 F 0 "highvolts1" H 1725 4345 50  0000 C CNN
 F 1 "100k" H 1725 4425 50  0000 C CNN
-F 2 "Potentiometers:Potentiometer_Trimmer-Piher-PT15-h2-5_vertical" H 1725 4425 50  0001 C CNN
+F 2 "Potentiometers:Potentiometer_WirePads_Small" H 1725 4425 50  0001 C CNN
 F 3 "" H 1725 4425 50  0000 C CNN
 	1    1725 4425
 	1    0    0    -1  
@@ -544,7 +544,7 @@ U 1 1 58041CF5
 P 1800 6100
 F 0 "lowvolts1" H 1800 6020 50  0000 C CNN
 F 1 "100k" H 1800 6100 50  0000 C CNN
-F 2 "Potentiometers:Potentiometer_Trimmer-Piher-PT15-h2-5_vertical" H 1800 6100 50  0001 C CNN
+F 2 "Potentiometers:Potentiometer_WirePads_Small" H 1800 6100 50  0001 C CNN
 F 3 "" H 1800 6100 50  0000 C CNN
 	1    1800 6100
 	1    0    0    -1  
@@ -830,7 +830,7 @@ U 1 1 58043FA3
 P 4775 3575
 F 0 "U3" H 4575 3775 50  0000 L CNN
 F 1 "PC817" H 4775 3775 50  0000 L CNN
-F 2 "DIP-4" H 4575 3375 50  0000 L CIN
+F 2 "Opto-Devices:Optocoupler_SMD_HandSoldering_KPC357_LTV35x_PC357_SingleChannel" H 4575 3375 50  0000 L CIN
 F 3 "" H 4775 3575 50  0000 L CNN
 	1    4775 3575
 	1    0    0    -1  
@@ -905,7 +905,7 @@ U 1 1 5804670F
 P 6650 5625
 F 0 "tempshutdown1" H 6650 5545 50  0000 C CNN
 F 1 "10k" H 6650 5625 50  0000 C CNN
-F 2 "Potentiometers:Potentiometer_Trimmer-Piher-PT15-h2-5_vertical" H 6650 5625 50  0001 C CNN
+F 2 "Potentiometers:Potentiometer_WirePads_Small" H 6650 5625 50  0001 C CNN
 F 3 "" H 6650 5625 50  0000 C CNN
 	1    6650 5625
 	0    1    1    0   
